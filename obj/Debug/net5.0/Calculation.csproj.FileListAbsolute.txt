@@ -1,0 +1,16 @@
+D:\VS 2019\TEST\Calculation\bin\Debug\net5.0\Calculation.exe
+D:\VS 2019\TEST\Calculation\bin\Debug\net5.0\Calculation.deps.json
+D:\VS 2019\TEST\Calculation\bin\Debug\net5.0\Calculation.runtimeconfig.json
+D:\VS 2019\TEST\Calculation\bin\Debug\net5.0\Calculation.runtimeconfig.dev.json
+D:\VS 2019\TEST\Calculation\bin\Debug\net5.0\Calculation.dll
+D:\VS 2019\TEST\Calculation\bin\Debug\net5.0\ref\Calculation.dll
+D:\VS 2019\TEST\Calculation\bin\Debug\net5.0\Calculation.pdb
+D:\VS 2019\TEST\Calculation\obj\Debug\net5.0\Calculation.csproj.AssemblyReference.cache
+D:\VS 2019\TEST\Calculation\obj\Debug\net5.0\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS 2019\TEST\Calculation\obj\Debug\net5.0\Calculation.AssemblyInfoInputs.cache
+D:\VS 2019\TEST\Calculation\obj\Debug\net5.0\Calculation.AssemblyInfo.cs
+D:\VS 2019\TEST\Calculation\obj\Debug\net5.0\Calculation.csproj.CoreCompileInputs.cache
+D:\VS 2019\TEST\Calculation\obj\Debug\net5.0\Calculation.dll
+D:\VS 2019\TEST\Calculation\obj\Debug\net5.0\ref\Calculation.dll
+D:\VS 2019\TEST\Calculation\obj\Debug\net5.0\Calculation.pdb
+D:\VS 2019\TEST\Calculation\obj\Debug\net5.0\Calculation.genruntimeconfig.cache
